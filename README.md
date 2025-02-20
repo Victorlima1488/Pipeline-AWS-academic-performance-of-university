@@ -23,4 +23,4 @@ kagglehub==1.0.4
 pyarrow==11.0.0
 ```
 ## Architecture Diagram
-![ETL Pipeline Architecture](./images/Architecture.png)
+![ETL Pipeline Architecture](./Images/Architecture.png)
